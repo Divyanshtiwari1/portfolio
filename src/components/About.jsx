@@ -47,10 +47,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I'm a skilled software developer proficient in Python, C++ and
-        JavaScript and also expertise in frameworks like Tensorflow, PyTorch, Node.js and
-        React. With hands-on experience in Machine learning, deep learning, NLP, and full-stack development. 
-       My commitement to continuous learning and problem-solving enables me to contribute effectively to innovative projects, driving impactful outcomes in Software Development and AI/ML.
+         I’m an AI/ML Engineer and full-stack developer skilled in Python, C++, and JavaScript, with expertise in TensorFlow, PyTorch, and NLP frameworks. I’ve built and deployed real-world solutions like an AI calling agent and an Email Classifier System using LangChain, LangGraph, FastAPI, and Django REST. My projects include a Research Paper Recommendation System and a Multilingual RAG-based Chatbot, showcasing my ability to deliver end-to-end AI applications. Passionate about continuous learning and model optimization, I focus on creating impactful, production-ready AI solutions.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
